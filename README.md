@@ -7,3 +7,4 @@ BIOS FOR ACER NITRO 5 AN515-45
 <br>So they should work on any Nitro 5 AN515-45
 <br>Pick a version then stick with it.
 <br>Don't constantly change BIOS version since you are asking for bricking your computer.
+<br>First version of BIOS is always superior for me because it will went in more testing during development.
