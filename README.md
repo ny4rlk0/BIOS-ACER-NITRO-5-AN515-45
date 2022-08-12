@@ -13,7 +13,7 @@ BIOS FOR ACER NITRO 5 AN515-45
 <br>First version of BIOS is always superior for me because it will went in more testing during development.
 <br>
 <br> ---------- <!> Warning <!> ----------
-Make sure laptop is connected to power supply and battery is charged fully.
+<br>Make sure laptop is connected to power supply and battery is charged fully.
 <br>
 <br> ---------- ~~ Update Logs ~~ ----------
 <br>BIOS v1.03 1.Update LCD setting and brightness table.
