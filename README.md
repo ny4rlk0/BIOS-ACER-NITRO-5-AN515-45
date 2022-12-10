@@ -1,5 +1,6 @@
 BIOS FOR ACER NITRO 5 AN515-45
 <br>Suggested Version: 1.06 (For Low Temps)
+<br>Suggested Version: 1.10 (For extended support to Windows 11 Sun Valley 2 Update)
 <br><a href="https://github.com/ny4rlk0/BIOS-ACER-NITRO-5-AN515-45/releases/download/BIOS_1.03_1.06_1.08_1.10/All_BIOS_ACER_NITRO_5_AN515-45-R0SE_10.12.2022_13.44.zip"><b>İndir / Download</b></a>
 <br>
 <br>Included Versions: 1.03, 1.06, 1.08, 1.10
