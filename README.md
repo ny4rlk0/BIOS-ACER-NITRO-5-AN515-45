@@ -21,7 +21,7 @@
 <br><b>BIOS v1.06</b> 1.Update NV QBoost Setting. 2.Update AMD PI code. 3.Update new Panel ID.
 <br><b>BIOS v1.08</b> 1.Improve for GPU protection 2.Enable fTPM support for china.
 <br><b>BIOS v1.10</b> 1.Enable Win11 SV2 Support. Installs compatibility for the released
-<br>Windows 11 version 22H2 update called Sun Valley 2 update and also includes a previous bios update 
+<br>Windows 11 version 22H2 called Sun Valley 2 update and also includes a previous bios update 
 <br>called “1.Update NV QBoost Setting. 2.Update AMD PI code. 3.Update new Panel ID."
 <br>Which the Combo PI is a kind of main container that includes 
 <br>aspects such as VBIOS for the APU, SMU, PSP or ABL and where some data from AGESA itself is also included.
