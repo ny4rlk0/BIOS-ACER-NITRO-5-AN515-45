@@ -1,6 +1,6 @@
 <br>Added RTX 3070 firmware for this Laptop straightly dumped from chip with CH341A.
 <br>If i fix my BIOS i will add dump of that too. (Unfortunely chip is dead for some reason. I cant even read it with CH341A. Tried every version.)
-<br>Ordered a new one Winbond W25Q128JVSIQ 128M-BIT as replacement. (Could'nt find the Winbond W25Q128FVSQ but this should do the trick if CH341A will be able to detect new BIOS chip because old one does not getting detected.) Gonna flash this first then solder it.
+<br>Ordered a new one Winbond W25Q128JVSIQ 128M-BIT as replacement. (Couldn't find the Winbond W25Q128FVSQ but this should do the trick if CH341A will be able to detect new BIOS chip because old one does not getting detected.) Gonna flash the bios that i extracted from otginal BIOS first then solder it. If it's works, i will upload the contents of the chip here too.
 <bold><b>BIOS FOR ACER NITRO 5 AN515-45</b></bold>
 <br>Suggested Version: 1.06 (For Low Temps)
 <br>Suggested Version: 1.10 (For extended support to Windows 11 Sun Valley 2 Update)
