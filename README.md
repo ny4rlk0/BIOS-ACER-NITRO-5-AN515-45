@@ -1,3 +1,5 @@
+<br>Added RTX 3070 firmware for this Laptop straightly dumped from chip with CH341A.
+<br>If i fix my BIOS i will add dump of that too. (Unfortunely chip is dead for some reason. I cant even read it with CH341A. Tried every version.)
 <bold><b>BIOS FOR ACER NITRO 5 AN515-45</b></bold>
 <br>Suggested Version: 1.06 (For Low Temps)
 <br>Suggested Version: 1.10 (For extended support to Windows 11 Sun Valley 2 Update)
