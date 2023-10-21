@@ -6,6 +6,17 @@
 <br>Suggested Version: 1.10 (For extended support to Windows 11 Sun Valley 2 Update)
 <br><a href="https://github.com/ny4rlk0/BIOS-ACER-NITRO-5-AN515-45/releases/download/BIOS_1.03_1.06_1.08_1.10/All_BIOS_ACER_NITRO_5_AN515-45-R0SE_10.12.2022_13.44.zip"><b>İndir / Download</b></a>
 <br>
+<br>Downloaded version is only for indirect installs. (Installing from running laptop, Installing with flash drive via BIOS Recovery Crisis Mode etc.)
+<br>
+<br>If you gonna use ch341a use the version in code section in upper. That is a extracted firmware exactly sized for flashing with CH341A.
+<br>
+<br>How did i get this? Opened .EXE file with 7ZIP extracted. Found a abobios.bin.
+<br>Opened a Windows CMD same folder.
+<br>extractor.exe abobios.bin extracted_abobios.bin
+<br>Then before i use with Neo Programmmer 2.2.0.10 renamed file to abobios.bin
+<br>You don't need to trust me. You can just do the same thing with any spare computer.
+<br>I don't freaking know that why this is not mentioned anywhere...
+<br>
 <br>Included Versions: 1.03, 1.06, 1.08, 1.10
 <br>
 <br>You can switch any version of your wish as i patched them.
@@ -36,3 +47,4 @@
 <br>How to find BIOS file name for similiar laptops?
 <br>Extract the BIOS file from EXE form with 7ZIP and open the abobios.BIN file with the HxD editor. 
 <br>Press CTRL + F and search for .fd. In this way, you can find out which BIOS file name the laptop is looking for in BIOS restore mode.
+
