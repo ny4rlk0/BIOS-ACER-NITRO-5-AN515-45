@@ -29,5 +29,10 @@
 <br>Which the Combo PI is a kind of main container that includes 
 <br>aspects such as VBIOS for the APU, SMU, PSP or ABL and where some data from AGESA itself is also included.
 <br>And should be installed to make your laptop function properly.
+<br>
 <br>While turned off. Keep Press FN+ESC for BIOS Crisis Recovery Mode same time press and release power button. 
-<br>Looks for BIOS file named BIOS.fd or ME.fd in USB drive formatted as fat32.
+<br>This laptop looks for BIOS file named BIOS.fd or ME.fd in USB drive formatted as fat32.
+<br>
+<br>How to find BIOS file name for similiar laptops?
+<br>Extract the BIOS file from EXE form with 7ZIP and open the abobios.BIN file with the HxD editor. 
+<br>Press CTRL + F and search for .fd. In this way, you can find out which BIOS file name the laptop is looking for in BIOS restore mode.
