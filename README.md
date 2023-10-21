@@ -10,7 +10,7 @@
 <br>
 <br>If you gonna use ch341a use the version in code section in upper. That is a extracted firmware exactly sized for flashing with CH341A.
 <br>
-<br>How did i get CH341A version?
+<br><b>How did i get CH341A version?</b>
 <br>
 <br>Opened .EXE file with 7ZIP extracted. Found a abobios.bin.
 <br>Opened a Windows CMD same folder.
@@ -21,12 +21,13 @@
 <br>I'm still waiting to test this while waiting for shipment of missing single tool.
 <br>Extracted bios file and BIOS chip is exactly same sized.
 <br>
-<br>How to enter BIOS Recovery Mode / BIOS Crisis Mode?
+<br><b>How to enter BIOS Recovery Mode / BIOS Crisis Mode?</b>
 <br>
 <br>While turned off. Keep Press FN+ESC for BIOS Crisis Recovery Mode same time press and release power button. 
 <br>This laptop looks for BIOS file named BIOS.fd or ME.fd in USB drive formatted as fat32.
 <br>
-<br>How to find BIOS file name for similiar laptops?
+<br><b>How to find BIOS file name for similiar laptops?</b>
+<br>
 <br>Extract the BIOS file from EXE form with 7ZIP and open the abobios.BIN file with the HxD editor. 
 <br>Press CTRL + F and search for .fd. In this way, you can find out which BIOS file name the laptop is looking for in BIOS restore mode.
 <br>
