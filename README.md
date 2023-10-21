@@ -29,3 +29,4 @@
 <br>Which the Combo PI is a kind of main container that includes 
 <br>aspects such as VBIOS for the APU, SMU, PSP or ABL and where some data from AGESA itself is also included.
 <br>And should be installed to make your laptop function properly.
+<br>Looks for file named BIOS.fd or ME.fd
