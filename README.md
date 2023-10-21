@@ -29,7 +29,8 @@
 <br><b>How to find BIOS file name for similiar laptops?</b>
 <br>
 <br>Extract the BIOS file from EXE form with 7ZIP and open the abobios.BIN file with the HxD editor. 
-<br>Press CTRL + F and search for .fd. In this way, you can find out which BIOS file name the laptop is looking for in BIOS restore mode.
+<br>Press CTRL + F and search for .fd
+<br>In this way, you can find out which BIOS file name the laptop is looking for in BIOS restore mode.
 <br>
 <br>Included Versions: 1.03, 1.06, 1.08, 1.10
 <br>
