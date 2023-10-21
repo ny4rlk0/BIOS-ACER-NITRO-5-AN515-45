@@ -19,9 +19,18 @@
 <br>I'm still waiting to test this while waiting for shipment of missing single tool.
 <br>Extracted bios file and BIOS chip is exactly same sized.
 <br>
+<br>How to enter BIOS Recovery Mode / BIOS Crisis Mode?
+<br>
+<br>While turned off. Keep Press FN+ESC for BIOS Crisis Recovery Mode same time press and release power button. 
+<br>This laptop looks for BIOS file named BIOS.fd or ME.fd in USB drive formatted as fat32.
+<br>
+<br>How to find BIOS file name for similiar laptops?
+<br>Extract the BIOS file from EXE form with 7ZIP and open the abobios.BIN file with the HxD editor. 
+<br>Press CTRL + F and search for .fd. In this way, you can find out which BIOS file name the laptop is looking for in BIOS restore mode.
+<br>
 <br>Included Versions: 1.03, 1.06, 1.08, 1.10
 <br>
-<br>You can switch any version of your wish as i patched them.
+<br>You can switch any version of your wish.
 <br>You can downgrade BIOS with this.
 <br>I'm not accepting any responsibility but i tested them in <b>AN515-45-R4SE</b>
 <br>So they should work on any Nitro 5 AN515-45
@@ -42,11 +51,5 @@
 <br>Which the Combo PI is a kind of main container that includes 
 <br>aspects such as VBIOS for the APU, SMU, PSP or ABL and where some data from AGESA itself is also included.
 <br>And should be installed to make your laptop function properly.
-<br>
-<br>While turned off. Keep Press FN+ESC for BIOS Crisis Recovery Mode same time press and release power button. 
-<br>This laptop looks for BIOS file named BIOS.fd or ME.fd in USB drive formatted as fat32.
-<br>
-<br>How to find BIOS file name for similiar laptops?
-<br>Extract the BIOS file from EXE form with 7ZIP and open the abobios.BIN file with the HxD editor. 
-<br>Press CTRL + F and search for .fd. In this way, you can find out which BIOS file name the laptop is looking for in BIOS restore mode.
+
 
