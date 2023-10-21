@@ -17,6 +17,7 @@
 <br>You don't need to trust me. You can just do the same thing with any spare computer.
 <br>I don't freaking know that why this is not mentioned anywhere...
 <br>I'm still waiting to test this while waiting for shipment of missing single tool.
+<br>Extracted bios file and BIOS chip is exactly same sized.
 <br>
 <br>Included Versions: 1.03, 1.06, 1.08, 1.10
 <br>
