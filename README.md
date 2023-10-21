@@ -8,7 +8,7 @@
 <br>
 <br>Downloaded version is only for indirect installs. (Installing from running laptop, Installing with flash drive via BIOS Recovery Crisis Mode etc.)
 <br>
-<br>If you gonna use ch341a use the version in code section in upper. That is a extracted firmware exactly sized for flashing with CH341A.
+<br>If you gonna use ch341a use the version in code section in upper. That is a extracted firmware exactly sized for flashing with CH341A. (BIOS VER: 1.10)
 <br>
 <br><b>How did i get CH341A version?</b>
 <br>
