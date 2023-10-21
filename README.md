@@ -16,6 +16,7 @@
 <br>Then before i use with Neo Programmmer 2.2.0.10 renamed file to abobios.bin
 <br>You don't need to trust me. You can just do the same thing with any spare computer.
 <br>I don't freaking know that why this is not mentioned anywhere...
+<br>I'm still waiting to test this while waiting for shipment of missing single tool.
 <br>
 <br>Included Versions: 1.03, 1.06, 1.08, 1.10
 <br>
