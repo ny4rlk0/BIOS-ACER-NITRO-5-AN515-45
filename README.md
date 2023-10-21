@@ -10,7 +10,9 @@
 <br>
 <br>If you gonna use ch341a use the version in code section in upper. That is a extracted firmware exactly sized for flashing with CH341A.
 <br>
-<br>How did i get CH341A version? Opened .EXE file with 7ZIP extracted. Found a abobios.bin.
+<br>How did i get CH341A version?
+<br>
+<br>Opened .EXE file with 7ZIP extracted. Found a abobios.bin.
 <br>Opened a Windows CMD same folder.
 <br>extractor.exe abobios.bin extracted_abobios.bin
 <br>Then before i use with Neo Programmmer 2.2.0.10 renamed file to abobios.bin
